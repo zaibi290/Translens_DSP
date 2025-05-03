@@ -48,7 +48,7 @@ build/app/outputs/flutter-apk/app-release.apk
 
 
 - Copy the APK file to your Android device
-- Enable “Install unknown apps” in the phone settings
+- Enable “Install unknown apps” in the phone settings (app will be in files on the phone)
 - Tap the APK file to install Translens
 
 ## License
