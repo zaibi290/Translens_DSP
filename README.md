@@ -1,6 +1,6 @@
 # translens
 
-A new Flutter project.
+A mobile translation app
 
 ## Getting Started
 
